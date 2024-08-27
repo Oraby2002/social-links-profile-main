@@ -1,0 +1,108 @@
+body {
+  background-color: black;
+}
+.profile {
+  background-color: hsl(0, 0%, 12%);
+  width: 300px;
+  margin: 200px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+.image {
+  border-radius: 50%;
+  overflow: hidden;
+  margin-left: 60px;
+}
+.name {
+  color: hsl(0, 0%, 100%);
+  font-weight: bold;
+  margin: 0 10px;
+  margin-left: 50px;
+}
+.location {
+  color: hsl(75, 94%, 57%);
+  margin-top: 0px;
+  margin-left: 70px;
+}
+.major {
+  margin-left: 15px;
+  color: rgba(255, 255, 255, 0.639);
+}
+.button1,
+.button2,
+.button3,
+.button4,
+.button5 {
+  display: block;
+}
+.button1 {
+  border: 5px;
+  margin: 0 auto;
+  padding: 10px 60px;
+  cursor: pointer;
+  transition: background 0.3s;
+  background-color: hsl(0, 0%, 20%);
+  color: azure;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+.button2 {
+  border: 5px;
+  margin: 0 auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  transition: background 0.3s;
+  background-color: hsl(0, 0%, 20%);
+  color: azure;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+.button3 {
+  border: 5px;
+  margin: 0 auto;
+  padding: 10px 60px;
+  cursor: pointer;
+  transition: background 0.3s;
+  background-color: hsl(0, 0%, 20%);
+  color: azure;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+.button4 {
+  border: 5px;
+  margin: 0 auto;
+  padding: 10px 60px;
+  cursor: pointer;
+  transition: background 0.3s;
+  background-color: hsl(0, 0%, 20%);
+  color: azure;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+.button5 {
+  border: 5px;
+  margin: 0 auto;
+  padding: 10px 60px;
+  cursor: pointer;
+  transition: background 0.3s;
+  background-color: hsl(0, 0%, 20%);
+  color: azure;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.button1:hover {
+  background-color: rgba(235, 255, 11, 0.5);
+}
+.button2:hover {
+  background-color: rgba(235, 255, 11, 0.5);
+}
+.button3:hover {
+  background-color: rgba(235, 255, 11, 0.5);
+}
+.button4:hover {
+  background-color: rgba(235, 255, 11, 0.5);
+}
+.button5:hover {
+  background-color: rgba(235, 255, 11, 0.5);
+}
